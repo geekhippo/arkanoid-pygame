@@ -32,7 +32,7 @@
 ## 📦 Установка и запуск
 
 ### Вариант 1: EXE (Windows)
-Скачайте `Арканоид.exe` из вкладки [Releases]([https://github.com/USERNAME/arkanoid-pygame/releases](https://github.com/geekhippo/arkanoid-pygame/releases) и запускайте.
+Скачайте `Арканоид.exe` из вкладки [Releases](https://github.com/geekhippo/arkanoid-pygame/releases) и запускайте.
 
 ### Вариант 2: Исходный код
 
