@@ -7,7 +7,6 @@
 
 Классическая игра **Арканоид**, написанная на Python с использованием PyGame. 10 уникальных уровней с красивой графикой, частицами, бонусами и звуковыми эффектами.
 
-![Gameplay Screenshot](screenshot.png)
 
 ## 🎮 Особенности
 
@@ -32,7 +31,7 @@
 ## 📦 Установка и запуск
 
 ### Вариант 1: EXE (Windows)
-Скачайте `Арканоид.exe` из вкладки [Releases](https://github.com/geekhippo/arkanoid-pygame/releases) и запускайте.
+Скачайте `default.exe` из вкладки [Releases](https://github.com/geekhippo/arkanoid-pygame/releases) и запускайте.
 
 ### Вариант 2: Исходный код
 
